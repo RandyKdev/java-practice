@@ -9,7 +9,7 @@ public class arrays {
         // printing the length
         System.out.println(arr.length);
 
-        String[] arr1 = new String[20];
+        int[] arr1 = {1, 2, 3, 4};
         boolean[] bool = new boolean[2];
 
         // rule of thumb: use primitive data types combines with

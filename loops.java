@@ -6,5 +6,10 @@ public class loops {
         for(int i:arr) {
             System.out.println(i);
         }
+
+        // i is the index
+        for(int i = 0; i < arr.length; i++) {
+            System.out.printf("%d", arr[i]);
+        }
     }    
 }
